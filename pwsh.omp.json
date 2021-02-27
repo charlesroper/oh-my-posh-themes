@@ -15,8 +15,8 @@
             "style": "powerline",
             "foreground": "cyan",
             "properties": {
-              "prefix": "",
-              "postfix": "  "
+              "prefix": "<blue>[</>",
+              "postfix": " <blue>pwsh]</> "
             }
           },
           {
