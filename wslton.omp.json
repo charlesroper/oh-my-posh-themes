@@ -17,15 +17,15 @@
           }
         },
         {
-            "type": "envvar",
-            "style": "plain",
-            "powerline_symbol": "\uE0B0",
-            "foreground": "green",
-            "properties": {
-              "var_name": "WSL_DISTRO_NAME",
-              "prefix": "",
-              "postfix": "]"
-            }
+          "type": "envvar",
+          "style": "plain",
+          "powerline_symbol": "\uE0B0",
+          "foreground": "green",
+          "properties": {
+            "var_name": "WSL_DISTRO_NAME",
+            "prefix": "",
+            "postfix": "]"
+          }
         },
         {
           "type": "path",
