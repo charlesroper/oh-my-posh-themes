@@ -40,7 +40,7 @@
           "style": "plain",
           "foreground": "lightYellow",
           "properties": {
-            "prefix": ":: <lightBlue>git(</>",
+            "prefix": ":: <lightBlue>\uf1d3 (</>",
             "postfix": "<lightBlue>)</>"
           }
         }
